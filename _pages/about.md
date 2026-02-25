@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,100 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an undergraduate student at Shantou University, majoring in Data Science and Big Data Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Physical enhancement, Constitutive model, Multimodality, and Affective Computing.
 
+# Research Interests
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
-# 📝 Publications 
+# Education
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Shantou University**, Shantou, China | Sep 2023 - Present
+- Bachelor in Data Science and Big Data Technology
+- Cumulative GPA: 3.89/5.00
+- Selected Courses: Data Structure and Algorithm; Operating System; Database Theory; Object-Oriented Programming; C Language Programming; Python Programming Practice; Programming Design Foundation; Basic Software Design; System Design and Integration I; Machine Learning; Statistical Learning Method; Data Visualization; Data Collecting Techniques; Multi-source Information Fusion; Calculus B-I; Calculus B-II; Advance Calculus; Linear Algebra (Engineering); Probability and Statistics; Discrete Mathematics.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**University of Cambridge**, Cambridge, UK | Jul 21, 2024 - Aug 3, 2024
+- Deep Learning Summer Program
+- Cumulative GPA: 3.9/4.00
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# Research Experience
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+**Develop Muliti-stage Physical Constraint Framework Applied in Constitutive Models** | Shantou University, China
+*Third Author, Mentor: Zhen Wang* | Jul 2024 - Sep 2025
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- To address the problem of insufficient physical consistency in data-driven constitutive models, a multi-stage physical-constraint learning framework was constructed to study the embedding strategies of physical priors and their effects.
+- Baseline models (e.g., MLP, RNN, and PINN) and a unified experimental environment were built and implemented for method comparison and ablation analysis.
+- An evaluation dataset and experimental protocol were constructed based on material mechanics-related properties, and evaluation was conducted from the perspectives of performance, stability, and physical consistency.
+- The first and second laws of thermodynamics were incorporated into training in the forms of data constraints and network structural constraints, respectively; a stage-wise physical-constraint mechanism was designed and its effects were verified.
+- Responsible for writing the Method and Experiments sections of the paper, and completed key experimental design, result analysis, figure preparation, and reference organization.
+- Responsible for periodic academic presentations, presenting the method design and experimental conclusions.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Models Communication** | Shantou University, China
+*Leader, Mentor: Zhen Wang* | Nov 2025 - Present
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- For multi-model collaborative learning, designed an inter-model communication protocol to explore information interaction mechanisms during training/inference.
+- Implemented and validated the communication protocol in constitutive thermodynamics tasks; results showed that, under specific settings, smaller-parameter models can obtain performance/efficiency gains superior to complex models through communication-based collaboration.
+- Leading the extension of the communication mechanism to medical ultrasound image segmentation tasks and verifying its cross-domain applicability.
+- Guiding group members in conducting application experiments of the communication protocol on different tasks.
+- Participating in paper writing and result organization.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Multi-level Context-aware Reasoning and Multimodality for Visual Emotion Analysis** | Shantou University, China
+*First Author, Mentor: Rui Li* | Apr 2025 - Jan 2026
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- For problems in VEA tasks such as dispersed emotional cues and insufficient cross-modal semantic alignment, studied multi-level context-aware reasoning and multimodal fusion methods.
+- Compared the performance of multiple text-image fusion strategies on VEA tasks and proposed improvement schemes based on experimental results.
+- Collected and organized commonly used VEA datasets, and completed analyses of data distribution, data volume bias, and dataset characteristics to support model design and experimental settings.
+- Investigated representative baseline models and constructed a unified comparison benchmark to ensure comparability and reproducibility of subsequent validation.
+- Studied the role of the text modality in VEA, constructed a textualized expression framework for image emotion by integrating knowledge from affective science/psychology, and improved emotion representation capability through multimodal modeling, achieving SOTA on multiple datasets.
+- Responsible for paper writing, experimental result visualization, and figure plotting.
+
+**Medical Ultrasound Segmentation Model and AI Agent** | Shantou University, China
+*Group Leader, Course Project, Basic Software Design Course* | Sep 2025 - Dec 2025
+
+- Participated in building an integrated medical ultrasound segmentation model + AI Agent system for segmentation and result analysis.
+- Investigated AI Agent frameworks and medical image segmentation models, completed technical selection, and set up the training environment and experimental pipeline.
+- Collected and preprocessed ultrasound datasets, adapted segmentation models to task requirements, and completed model service encapsulation and front-end integration for AI Agent invocation.
+
+**Deep Learning Summer Programme** | Cambridge, UK
+*Mentor: Pietro Lio* | Jul 21, 2025 - Aug 3, 2026
+
+- Studied the full architecture of Deep Reinforcement Learning (DRL) and delved into Multi-Agent Reinforcement Learning (MARL) algorithms, including DDPG (Deep Deterministic Policy Gradient) and MADDPG (Multi-Agent DDPG).
+- Collaborated with a team of 11 members to develop a "Simple World Communicate Game" as the main project.
+- Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. And finally got 70% grape of this program.
+
+# Publications
+
+**Journal Paper** - Under Review
+
+- Wang, Z., Zhang, C., **Mai, Z.**, Wang, M., Chen, X., Yi, Y., & Chen, H. *An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints*. Submitted to *International Journal of Mechanical Sciences*. Manuscript Number: SUBMIT2IJMS-D-25-09869.
+
+**Conference Paper** - Under Review
+
+- **Mai, Z.**, Li, R., & Wu, S. *Multi-level Context-aware Reasoning for enhancing Visual Sentiment Analysis: Decoding Image-Inherent Sentiment-Stimuli*. Submitted to *IJCAI-ECAI 2026 Main Track*. Submission ID: 5266.
+
+# English Test & Additional Skills
+
+- **Duolingo English Test (DET):** 110 (Overall); Literacy 110, Comprehension 115, Conversation 110, Production 85
+- **Languages:** Mandarin (Native), Cantonese (Native), English (Fluent)
+- **Saxophone:** Awarded First Prize in Instrumental Group A at the 7th Guangdong University Students' Art Exhibition
+- **English Debate:** Won Second Prize at the 2024 Guangdong International Speech and Debate Championship and Shantou Intercollegiate English Debate Competition; Won Second Prize in the 5th FLTRP English Debate Novice Championship
+
+# References
+
+**Zhen Wang**
+*Lecturer, Department of Civil Engineering and Smart Cities, Shantou University, Shantou, China*
+- E-mail: wzhen@stu.edu.cn
+- [Shantou University - Personal Page](https://eng.stu.edu.cn/info/1085/2064.htm)
+
+**Rui Li**
+*Lecturer, Department of Computer Science and Technology, Shantou University, Shantou, China*
+- E-mail: ruili@stu.edu.cn
+- [Shantou University - Personal Page](https://www.stu.edu.cn/cmac/info/1451/5301.htm) | [Google Scholar](https://scholar.google.com/citations?user=V9oO4oMAAAAJ&hl=en)
+
+**DaZhi Jiang**
+*Professor, Department of Computer Science and Technology, Shantou University, Shantou, China*
+- E-mail: dzjiang@stu.edu.cn
+- [Shantou University - Personal Page](https://www.stu.edu.cn/cmac/info/1451/15891.htm)
