@@ -23,9 +23,13 @@ My research interests include Physical enhancement, Constitutive model, Multimod
 
 # Research Interests
 
+<span class='anchor' id='research-interests'></span>
+
 Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 # Education
+
+<span class='anchor' id='education'></span>
 
 **Shantou University**, Shantou, China | Sep 2023 - Present
 - Bachelor in Data Science and Big Data Technology
@@ -37,6 +41,8 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 - Cumulative GPA: 3.9/4.00
 
 # Research Experience
+
+<span class='anchor' id='research-experience'></span>
 
 **Develop Muliti-stage Physical Constraint Framework Applied in Constitutive Models** | Shantou University, China
 *Third Author, Mentor: Zhen Wang* | Jul 2024 - Sep 2025
@@ -83,6 +89,8 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 # Publications
 
+<span class='anchor' id='publications'></span>
+
 **Journal Paper** - Under Review
 
 - Wang, Z., Zhang, C., **Mai, Z.**, Wang, M., Chen, X., Yi, Y., & Chen, H. *An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints*. Submitted to *International Journal of Mechanical Sciences*. Manuscript Number: SUBMIT2IJMS-D-25-09869.
@@ -93,12 +101,16 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 # English Test & Additional Skills
 
+<span class='anchor' id='english-test--additional-skills'></span>
+
 - **Duolingo English Test (DET):** 110 (Overall); Literacy 110, Comprehension 115, Conversation 110, Production 85
 - **Languages:** Mandarin (Native), Cantonese (Native), English (Fluent)
 - **Saxophone:** Awarded First Prize in Instrumental Group A at the 7th Guangdong University Students' Art Exhibition
 - **English Debate:** Won Second Prize at the 2024 Guangdong International Speech and Debate Championship and Shantou Intercollegiate English Debate Competition; Won Second Prize in the 5th FLTRP English Debate Novice Championship
 
 # References
+
+<span class='anchor' id='references'></span>
 
 **Zhen Wang**
 *Lecturer, Department of Civil Engineering and Smart Cities, Shantou University, Shantou, China*
