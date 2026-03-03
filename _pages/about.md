@@ -155,9 +155,10 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 *Course Project / Full-Stack AI System Prototype* - 2025
 
-- A self-driven survey and research note that summarizes how Visual Emotion Analysis (VEA) has evolved from visual-only methods to language-assisted and VLM-assisted paradigms.
-- Organizes the field from a practitioner’s perspective, with emphasis on why language helps, how prompts and multimodal fusion affect performance, and where current methods still fail.
-- Distills key open challenges (e.g., label ambiguity, limited supervision semantics, reasoning quality) and motivates future directions toward richer context-aware sentiment-stimuli reasoning.
+- Built an end-to-end ultrasound case interpretation system covering **case creation → image upload → AI analysis → result saving → report generation → PDF export**.
+- Designed a **5-agent collaborative pipeline** (**Result Parser / Feature Extractor / Diagnosis Analyzer / Report Generator / Report Refiner**) to transform model outputs into structured clinical-style reports.
+- Implemented a **classification–segmentation–agent–report** framework: a classifier predicts organ/category cues, a segmentation model extracts lesion regions and quantitative features, and the agent layer generates standardized diagnostic reports.
+- Integrated the AI pipeline with a full-stack application (frontend + backend + API service) for interactive analysis, result visualization, and report management.
 
 
 <div style="margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
