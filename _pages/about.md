@@ -85,7 +85,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 - Studied the full architecture of Deep Reinforcement Learning (DRL) and delved into Multi-Agent Reinforcement Learning (MARL) algorithms, including DDPG (Deep Deterministic Policy Gradient) and MADDPG (Multi-Agent DDPG).
 - Collaborated with a team of 11 members to develop a "Simple World Communicate Game" as the main project.
-- Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. And finally got 70% grape of this program.
+- Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. And finally got 70% grade of this program [(Grade Certificate)](files/cambridge_grade.pdf)
 
 # 📝 Works
 
@@ -143,7 +143,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 <span class='anchor' id='english-test--additional-skills'></span>
 
-- **Duolingo English Test (DET):** 110 (Overall); Literacy 110, Comprehension 115, Conversation 110, Production 85
+- **[Duolingo English Test (DET)](files/DuolingoEnglishTest.pdf):** 110 (Overall); Literacy 110, Comprehension 115, Conversation 110, Production 85
 - **Languages:** Mandarin (Native), Cantonese (Native), English (Fluent)
 - **Saxophone:** Awarded First Prize in Instrumental Group A at the 7th Guangdong University Students' Art Exhibition
 - **English Debate:** Won Second Prize at the 2024 Guangdong International Speech and Debate Championship and Shantou Intercollegiate English Debate Competition; Won Second Prize in the 5th FLTRP English Debate Novice Championship
