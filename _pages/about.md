@@ -143,7 +143,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
   <div class='paper-box-image'>
     <div>
       <div class="badge">Course Project</div>
-      <img src='images/ultrasound_agents_pipeline.png' alt="Multi-Agent Ultrasound Diagnostic Assistant Pipeline" width="100%">
+      <img src='images/ai_agent.png' alt="Multi-Agent Ultrasound Diagnostic Assistant Pipeline" width="100%">
     </div>
   </div>
 
@@ -155,29 +155,10 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 *Course Project / Full-Stack AI System Prototype* - 2025
 
-- Built a **full workflow clinical-style prototype** for ultrasound cases, covering **case creation, image upload, AI analysis, structured report generation, result storage, and PDF export**.
-- Designed a **5-agent collaborative pipeline** (**Result Parser / Feature Extractor / Diagnosis Analyzer / Report Generator / Report Refiner**) to transform raw model outputs into readable and standardized diagnostic reports.
-- Combined **computer vision models + agent orchestration + web system engineering** to deliver an end-to-end interactive application rather than an isolated model demo.
-- Focused on **practical usability**: result visualization, report refinement, and one-click demo flow for course presentation and system validation.
+- A self-driven survey and research note that summarizes how Visual Emotion Analysis (VEA) has evolved from visual-only methods to language-assisted and VLM-assisted paradigms.
+- Organizes the field from a practitioner’s perspective, with emphasis on why language helps, how prompts and multimodal fusion affect performance, and where current methods still fail.
+- Distills key open challenges (e.g., label ambiguity, limited supervision semantics, reasoning quality) and motivates future directions toward richer context-aware sentiment-stimuli reasoning.
 
-**My Role (replace with your actual contribution)**
-- Led / participated in the design of the **multi-agent diagnostic workflow** and task decomposition logic.
-- Implemented / integrated parts of the **AI inference pipeline** (e.g., classification / segmentation outputs to report generation).
-- Contributed to **system integration** (frontend-backend API connection, result display, report export, demo debugging).
-- Supported **demo delivery and project documentation**, including pipeline explanation and module testing.
-
-**Skills Demonstrated**
-- Multi-Agent System Design
-- AI Pipeline Integration (CV + LLM/Agent)
-- Full-Stack System Prototyping
-- Structured Report Generation
-- Product-oriented AI Demo Development
-
-**Tech Stack (edit to match your actual stack)**
-- Frontend: Vue3 / HTML / CSS / JavaScript  
-- Backend: Spring Boot / FastAPI  
-- AI Modules: Classification + Segmentation + LLM/Agent Pipeline  
-- Deployment / Integration: REST API, file upload, report export (PDF)
 
 <div style="margin-top: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="files/demo_video.mp4" target="_blank" rel="noopener"
