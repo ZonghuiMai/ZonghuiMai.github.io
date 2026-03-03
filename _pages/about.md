@@ -87,17 +87,41 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 - Collaborated with a team of 11 members to develop a "Simple World Communicate Game" as the main project.
 - Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. And finally got 70% grape of this program.
 
-# Publications
+# 📝 Publications
 
 <span class='anchor' id='publications'></span>
 
-**Journal Paper** - Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/physical_c.jpg' alt="Constitutive Modeling" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Wang, Z., Zhang, C., **Mai, Z.**, Wang, M., Chen, X., Yi, Y., & Chen, H. *An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints*. Submitted to *International Journal of Mechanical Sciences*. Manuscript Number: SUBMIT2IJMS-D-25-09869.
+[An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
 
-**Conference Paper** - Under Review
+**Zhen Wang**, Chen Zhang, **Zonghui Mai**, Meng Wang, Xiaoqiang Chen, Yaqi Yi, Huifang Chen
 
-- **Mai, Z.**, Li, R., & Wu, S. *Multi-level Context-aware Reasoning for enhancing Visual Sentiment Analysis: Decoding Image-Inherent Sentiment-Stimuli*. Submitted to *IJCAI-ECAI 2026 Main Track*. Submission ID: 5266.
+*International Journal of Mechanical Sciences* - Under Review (Manuscript: SUBMIT2IJMS-D-25-09869)
+
+- To address the problem of insufficient physical consistency in data-driven constitutive models, we constructed a multi-stage physical-constraint learning framework.
+- The first and second laws of thermodynamics were incorporated into training as data constraints and network structural constraints.
+- Comprehensive evaluation on material mechanics tasks demonstrates improved performance, stability, and physical consistency.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-ECAI</div><img src='images/stimuli_r.jpg' alt="Visual Sentiment Analysis" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-level Context-aware Reasoning for Enhancing Visual Sentiment Analysis: Decoding Image-Inherent Sentiment-Stimuli](https://www.ijcai.org/)
+
+**Zonghui Mai**, **Rui Li**, Shuhao Wu
+
+*IJCAI-ECAI 2026 Main Track* - Under Review (Submission ID: 5266)
+
+- Addressed problems in Visual Emotion Analysis tasks such as dispersed emotional cues and insufficient cross-modal semantic alignment.
+- Proposed a multi-level context-aware reasoning and multimodal fusion method for enhanced emotion representation.
+- Achieved SOTA performance on multiple datasets through text modality integration and multimodal modeling.
+
+</div>
+</div>
 
 # English Test & Additional Skills
 
