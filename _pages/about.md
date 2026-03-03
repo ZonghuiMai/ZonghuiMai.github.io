@@ -126,7 +126,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey / Notes</div><img src='images/3methods.jpg' alt="Visual Emotion Analysis Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual Emotion Analysis: Notes, Bottlenecks, and Future Directions](files/vea_survey_notes.pdf)
+[Visual Emotion Analysis: Notes, Bottlenecks, and Future Directions](files/VEA_survey.pdf)
 
 **Zonghui Mai**
 
