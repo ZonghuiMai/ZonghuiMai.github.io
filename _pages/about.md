@@ -34,7 +34,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 **Shantou University**, Shantou, China | Sep 2023 - Present
 - Bachelor in Data Science and Big Data Technology
 - Cumulative GPA: 3.89/5.00
-- Selected Courses: Data Structure and Algorithm; Operating System; Database Theory; Object-Oriented Programming; C Language Programming; Python Programming Practice; Programming Design Foundation; Basic Software Design; System Design and Integration I; Machine Learning; Statistical Learning Method; Data Visualization; Data Collecting Techniques; Multi-source Information Fusion; Calculus B-I; Calculus B-II; Advance Calculus; Linear Algebra (Engineering); Probability and Statistics; Discrete Mathematics.
+- Selected Courses: Data Structure and Algorithm; Operating System; Database Theory; Object-Oriented Programming; C Language Programming; Python Programming Practice; Programming Design Foundation; Basic Software Design; System Design and Integration I; Machine Learning; Statistical Learning Method; Data Visualization; Data Collecting Techniques; Multi-source Information Fusion; Calculus B-I; Calculus B-II; Advanced Calculus; Linear Algebra (Engineering); Probability and Statistics; Discrete Mathematics.
 
 **University of Cambridge**, Cambridge, UK | Jul 21, 2024 - Aug 3, 2024
 - Deep Learning Summer Program
@@ -44,7 +44,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 <span class='anchor' id='research-experience'></span>
 
-**Develop Muliti-stage Physical Constraint Framework Applied in Constitutive Models** | Shantou University, China
+**Development of a Multi-stage Physical-Constraint Framework for Constitutive Modeling** | Shantou University, China
 *Third Author, Mentor: Zhen Wang* | Jul 2024 - Sep 2025
 
 - To address the problem of insufficient physical consistency in data-driven constitutive models, a multi-stage physical-constraint learning framework was constructed to study the embedding strategies of physical priors and their effects.
@@ -54,7 +54,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 - Responsible for writing the Method and Experiments sections of the paper, and completed key experimental design, result analysis, figure preparation, and reference organization.
 - Responsible for periodic academic presentations, presenting the method design and experimental conclusions.
 
-**Models Communication** | Shantou University, China
+**Model Communication** | Shantou University, China
 *Leader, Mentor: Zhen Wang* | Nov 2025 - Present
 
 - For multi-model collaborative learning, designed an inter-model communication protocol to explore information interaction mechanisms during training/inference.
@@ -85,7 +85,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 
 - Studied the full architecture of Deep Reinforcement Learning (DRL) and delved into Multi-Agent Reinforcement Learning (MARL) algorithms, including DDPG (Deep Deterministic Policy Gradient) and MADDPG (Multi-Agent DDPG).
 - Collaborated with a team of 11 members to develop a "Simple World Communicate Game" as the main project.
-- Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. And finally got 70% grade of this program [(Grade Certificate)](files/cambridge_grade.pdf)
+- Took responsibility for explaining the key algorithms (DDPG and MADDPG) used in the game, presenting their application and implementation to the team. I received a final grade of 70% in the programme. [(Grade Certificate)](files/cambridge_grade.pdf)
 
 # 📝 Works
 
