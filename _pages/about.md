@@ -81,7 +81,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 - Collected and preprocessed ultrasound datasets, adapted segmentation models to task requirements, and completed model service encapsulation and front-end integration for AI Agent invocation.
 
 **Deep Learning Summer Programme** | Cambridge, UK
-*Mentor: Pietro Lio* | Jul 21, 2025 - Aug 3, 2026
+*Mentor: Pietro Lio* | Jul 21, 2025 - Aug 3, 2025
 
 - Studied the full architecture of Deep Reinforcement Learning (DRL) and delved into Multi-Agent Reinforcement Learning (MARL) algorithms, including DDPG (Deep Deterministic Policy Gradient) and MADDPG (Multi-Agent DDPG).
 - Collaborated with a team of 11 members to develop a "Simple World Communicate Game" as the main project.
