@@ -94,7 +94,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/physical_c.png' alt="Constitutive Modeling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences)
+[An Artificial Neural Networks Framework for Constitutive Modeling Enhanced by Multi-stage Thermodynamic Constraints](files/Manuscript_MTCNN.pdf)
 
 **Zhen Wang**, Chen Zhang, **Zonghui Mai**, Meng Wang, Xiaoqiang Chen, Yaqi Yi, Huifang Chen
 
@@ -110,7 +110,7 @@ Physical enhancement, Constitutive model, Multimodality, Affective Computing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-ECAI</div><img src='images/stimuli_r.jpg' alt="Visual Sentiment Analysis" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-level Context-aware Reasoning for Enhancing Visual Sentiment Analysis: Decoding Image-Inherent Sentiment-Stimuli](https://www.ijcai.org/)
+[Multi-level Context-aware Reasoning for Enhancing Visual Sentiment Analysis: Decoding Image-Inherent Sentiment-Stimuli](files/MCRStimuli.pdf)
 
 **Zonghui Mai**, **Rui Li**, Shuhao Wu
 
